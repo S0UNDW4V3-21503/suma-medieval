@@ -1,4 +1,7 @@
 ---
 layout: home
+
+
+
 ---
-Prueba 1
+Trabajo de Historia de la filosofía 3. 
