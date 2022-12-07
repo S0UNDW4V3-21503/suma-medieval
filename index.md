@@ -3,7 +3,11 @@ layout: home
 ---
 Trabajo de Historia de la filosofía 3. 
 
-## **1.¿Qué es una suma y como la presenta Santo Tomás de Aquino?**
+**Índice**
+1. [**¿Qué es una suma y como la presenta Santo Tomás de Aquino**?](#id1)
+2. [**Imagen de una suma**](#id2) 
+
+## **1. ¿Qué es una suma y como la presenta Santo Tomás de Aquino?**<a name="id1"></a> 
 
 Una suma es un tratado compilatorio, acerca de todo el saber de un área del
 conocimiento en particular, según la tradición de entonces (leyes, lógica,
@@ -43,7 +47,7 @@ Tomás de Aquino._ Suma de Teología._ 4a. Ed. Introducción por Gregorio Celda
     Luengo, et. al. Madrid, Biblioteca de Autores Cristianos, 2001. XXXVII + 992.
     (Tomo 1).
 
-## **2.Imagen de una suma**
+## **2.Imagen de una suma**<a name="id2"></a>
 ![2022-11-07 (8)](https://user-images.githubusercontent.com/119964547/206098139-29ff22ff-5fa0-410d-bfbb-5748d16b69b6.png)
 
 La imagen anterior pertenece al manuscrito de la _Suma teologica_ de Alberto Magno. El manuscrito completo se puede encontrar [aquí.](https://gallica.bnf.fr/ark:/12148/btv1b10557304x)
