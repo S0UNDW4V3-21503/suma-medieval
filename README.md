@@ -4,4 +4,4 @@
 
 La imagen anterior pertenece al manuscrito de la _Suma teologica_ de Alberto Magno. El manuscrito completo se puede encontrar en el siguiente enlace: 
 
-[enlace] (https://gallica.bnf.fr/ark:/12148/btv1b10557304x)
+[enlace](https://gallica.bnf.fr/ark:/12148/btv1b10557304x)
