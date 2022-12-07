@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: home 
 ---
 Trabajo de Historia de la filosofía 3. 
 
@@ -8,4 +8,4 @@ Trabajo de Historia de la filosofía 3.
 
 La imagen anterior pertenece al manuscrito de la _Suma teologica_ de Alberto Magno. El manuscrito completo se puede encontrar en el siguiente enlace: 
 
-https://gallica.bnf.fr/ark:/12148/btv1b10557304x
+[enlace] (https://gallica.bnf.fr/ark:/12148/btv1b10557304x)
