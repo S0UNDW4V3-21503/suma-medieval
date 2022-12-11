@@ -6,6 +6,7 @@ Trabajo de Historia de la filosofía 3.
 **Índice**
 1. [**¿Qué es una suma y como la presenta Santo Tomás de Aquino**?](#id1)
 2. [**Imagen de una suma**](#id2) 
+3. [**Suma sobre filosofía medieval**](#id3)
 
 ## **1. ¿Qué es una suma y como la presenta Santo Tomás de Aquino?**<a name="id1"></a> 
 
@@ -51,3 +52,38 @@ Tomás de Aquino._ Suma de Teología._ 4a. Ed. Introducción por Gregorio Celda
 ![2022-11-07 (8)](https://user-images.githubusercontent.com/119964547/206098139-29ff22ff-5fa0-410d-bfbb-5748d16b69b6.png)
 
 La imagen anterior pertenece al manuscrito de la _Suma teologica_ de Alberto Magno. El manuscrito completo se puede encontrar [aquí.](https://gallica.bnf.fr/ark:/12148/btv1b10557304x)
+
+## **3.Suma sobre filosofía medieval**<a name="id3"></a>
+
+### 1. Sobre Dios. 
+
+![Suma ](https://user-images.githubusercontent.com/119964547/206886019-4a092bfc-4deb-4fa5-b01b-0209cb2bd302.jpg)
+![Suma 02](https://user-images.githubusercontent.com/119964547/206886021-aca51222-b817-4552-a88d-e7a9f804035d.jpg)
+
+### 2. Sobre el hombre. 
+
+![Suma 03](https://user-images.githubusercontent.com/119964547/206886054-936d4166-a126-4b61-b69f-d7342a6ab661.jpg)
+
+### 3. Sobre la fe. 
+
+![Suma 04](https://user-images.githubusercontent.com/119964547/206886089-ce2334de-4123-4f0b-8edf-2a146c6de982.jpg)
+
+### 4. Sobre el alma. 
+
+![Suma 05](https://user-images.githubusercontent.com/119964547/206886114-0a30daa3-3567-42e3-bc06-4f4a616fea4f.jpg)
+
+### 5. Sobre la sustancia. 
+
+![SUSTANCIA](https://user-images.githubusercontent.com/119964547/206886140-8ae93090-9b31-480e-952b-51ea5d2e7a14.jpg)
+
+### 6. Sobre el entendimiento. 
+
+![ENTENDIMIENTO](https://user-images.githubusercontent.com/119964547/206886158-d2ca5bec-0600-4e79-86b2-c6b943335a27.jpg)
+
+### 7. Sobre la contingencia. 
+
+![CONTINGENCIA](https://user-images.githubusercontent.com/119964547/206886169-ada5dee0-ebcc-4b5f-a077-e8627ccd29fc.jpg)
+
+### 8. Sobre el cuerpo. 
+
+![CUERPO](https://user-images.githubusercontent.com/119964547/206886185-7f97230b-d64d-4f61-b8c1-3622afd0e3e8.jpg)
